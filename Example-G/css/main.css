@@ -1,0 +1,21 @@
+
+.part1 {
+  background: #44ACCF;
+  position: absolute;
+  display: block;
+  width: 98.4%;
+  height: 96.3%;
+  margin: 3px;
+}
+
+.part2 {
+  background: #FF9C34;
+  position: absolute;
+  display: block;
+  width: 97%;
+  height: 93%;
+  margin: 3px;
+  left: 16px;
+  top: 18px;
+}
+

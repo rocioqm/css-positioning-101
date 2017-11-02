@@ -1,0 +1,17 @@
+.part1 {
+  background-color: none;
+  width: 900px;
+  margin: 0px 96px;
+}
+
+.part2 {
+  background-color: #F95B34; 
+  position: fixed; 
+	bottom: 0; 
+	left: 0; 
+  right: 0;
+}
+
+.text2 {
+  margin: 15px 96px;
+}

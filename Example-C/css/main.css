@@ -1,0 +1,27 @@
+.part1 {
+  background: #EE3E64;
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0px 0px;
+}
+
+.part2 {
+  background: #44ACCF;
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 200px;
+  left: 200px;
+  margin: 0px 0px;
+}
+
+.part3 {
+  background: #B7D84B;
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0px 0px;
+}

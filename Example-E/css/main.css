@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+
+.part1 {
+  background: #EE3E64;
+  position: absolute;
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0px 0px;
+}
+
+.part2 {
+  background: #44ACCF;
+  position: absolute;
+  display: block;
+  width: 200px;
+  height: 200px;
+  right: 0px;
+  margin: 0px 0px;
+}
+
+.part3 {
+  background: #B7D84B;
+  position: absolute;
+  display: block;
+  width: 200px;
+  height: 200px;
+  bottom: 0px;
+  margin: 0px 0px;
+}
+
+.part4 {
+  background: #EBDE52;
+  position: absolute;
+  display: block;
+  width: 200px;
+  height: 200px;
+  right: 0;
+  bottom: 0px;
+  margin: 0px 0px;
+}

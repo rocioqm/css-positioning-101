@@ -1,0 +1,19 @@
+
+.part1 {
+  background: #EE3E64;
+  position: absolute;
+  display: block;
+  width: 14.8%;
+  height: 31.5%;
+}
+
+.part2 {
+  background: #44ACCF;
+  position: absolute;
+  display: block;
+  width: 14.8%;
+  height: 31.5%;
+  left: 8%;
+  top: 32.8%;
+}
+

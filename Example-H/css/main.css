@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+
+
+.part1 {
+  background: #EE3E64;
+  position: absolute;
+  display: block;
+  width: 80%;
+  height: 100%;
+}
+
+.part2 {
+  background: #B7D84B;
+  position: absolute;
+  display: block;
+  width: 20%;
+  height: 100%;
+  right: 0px;
+}
+
